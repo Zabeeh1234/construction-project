@@ -403,6 +403,13 @@ span{
 .footer-lwf {
   padding: 20px 0px;
 }
+.cal{
+  padding: 5.25px;
+  padding-bottom: 65px;
+}
+.seprate{
+  text-align: center;
+}
 
 /* Responsive Design */
 @media (max-width: 768px) {
